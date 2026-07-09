@@ -15,15 +15,15 @@ Backend API: https://moneyflow-v2.onrender.com
 
 ### Dashboard
 
-![MoneyFlow Dashboard](dashboard.png)
+![MoneyFlow Dashboard](Dashboard.png)
 
 ### Transactions
 
-![MoneyFlow Transactions](transactions.png)
+![MoneyFlow Transactions](Transaction.png)
 
 ### Analytics
 
-![MoneyFlow Analytics](analytics.png)
+![MoneyFlow Analytics](Analyse.png)
 ## ✨ Features
 
 - Secure user registration and login
