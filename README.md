@@ -11,7 +11,19 @@ Frontend: https://moneyflow-v2-1.onrender.com
 Backend API: https://moneyflow-v2.onrender.com
 
 > Note: The backend is hosted on Render's free tier. The first request may take a short time while the service starts.
+## 📸 Application Screenshots
 
+### Dashboard
+
+![MoneyFlow Dashboard](dashboard.png)
+
+### Transactions
+
+![MoneyFlow Transactions](transactions.png)
+
+### Analytics
+
+![MoneyFlow Analytics](analytics.png)
 ## ✨ Features
 
 - Secure user registration and login
